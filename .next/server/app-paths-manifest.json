@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/manifest.json/route": "app/manifest.json/route.js",
+  "/api/flights/route": "app/api/flights/route.js",
+  "/(pages)/user/(forms)/login/page": "app/(pages)/user/(forms)/login/page.js",
+  "/(pages)/user/(forms)/signup/page": "app/(pages)/user/(forms)/signup/page.js"
+}
